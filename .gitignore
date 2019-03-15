@@ -1,0 +1,6 @@
+__pycache__
+*.spec
+/__build_uploader
+/build/work
+/dist/nnc_uploader_linux_x86_64.tar.bz2
+/dist/nnc_uploader_linux_x86_64
